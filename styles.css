@@ -1,0 +1,26 @@
+body{
+
+}
+table{
+    text-align: center;
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: 120px;
+}
+tr td{
+    border: 1px solid black;
+}
+.atc{
+    height: 60px;
+}
+.book{
+    height: 100px;
+}
+.logo{
+    font-weight: bold;
+    height: 50px;
+}
+.option{
+    font-weight: bold;
+    height: 50px;
+}
